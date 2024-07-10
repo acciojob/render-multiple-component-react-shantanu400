@@ -12,12 +12,10 @@ const App = () => {
     <div id="main">
       <div className="ns-wrapper">
         
-        <Comp1 name={React} desc={Learning and solving} />
-        <Comp2 name={Redux} desc={Learning and solving}/>
-        <Comp3 name={Node} desc={Learning and solving}/>
-        <Comp4 name={Express} desc={Learning and solving}/>
-
-      
+        <Comp1 name="React" desc="Learning and solving" />
+        <Comp2 name="Redux" desc="Learning and solving "/>
+        <Comp3 name="Node" desc="Learning and solving "/>
+        <Comp4 name="Express" desc="Learning and solving "/>
       
       </div>
 
