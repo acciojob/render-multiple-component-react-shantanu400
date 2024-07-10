@@ -17,12 +17,7 @@ const App = () => {
         <Comp3 name={Node} desc={Learning and solving}/>
         <Comp4 name={Express} desc={Learning and solving}/>
 
-        
-        <h1 data-ns-test="project-name">Node</h1>
-        <h6 data-ns-test="project-description">Learning and solving</h6>
-        
-        <h1 data-ns-test="project-name">Express</h1>
-        <h6 data-ns-test="project-description">Learning and solving</h6>
+      
       
       </div>
 
